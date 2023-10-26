@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, JavaScript, Django, QT, React, Typescript**
 
-- 📫 How to reach me **felipe.medina33@inacapmail.cl**
+- 📫 How to reach me **felipemedinabetanzo@gmail.com**
 
 - ⚡ Fun fact **technology appeals to me**
 
